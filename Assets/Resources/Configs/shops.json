@@ -1,0 +1,23 @@
+{
+    "items": [
+        {
+            "id": 6001,
+            "internalName": "shop_standard",
+            "displayName": "Standard Shop (标准商店)",
+            "shopType": "between_wave",
+            "unlockWaveMin": 1,
+            "unlockWaveMax": 99,
+            "weaponSlotCount": 4,
+            "itemSlotCount": 2,
+            "freeRefreshCount": 0,
+            "baseRefreshCost": 1,
+            "refreshCostGrowth": 0.5,
+            "discountRate": 0.0,
+            "priceMultiplier": 1.0,
+            "rarityWeights": [0.6, 0.25, 0.1, 0.04, 0.01],
+            "allowedItemCategories": ["Food", "Environment", "Toy", "Survival", "Accessory"],
+            "backgroundKey": "bg_shop_standard",
+            "bgmKey": "bgm_shop"
+        }
+    ]
+}
